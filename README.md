@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mintlord3ttah
 - 👀 I’m interested in remote jobs
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next.js/Typescript, Express
 - 💞️ I’m looking to collaborate on any projects 
-- 📫 How to reach me ( +234-902-317-2761 )
+- 📫 How to reach me ( +234-902-537-7960 )
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: nice to have me around!
 
